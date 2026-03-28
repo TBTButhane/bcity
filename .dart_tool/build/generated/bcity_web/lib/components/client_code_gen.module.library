@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["bcity_web|lib/db/database.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

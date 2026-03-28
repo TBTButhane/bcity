@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["jaspr|lib/dom.dart","jaspr|lib/jaspr.dart","jaspr_router|lib/jaspr_router.dart","bcity_web|lib/views/pages/welcome_view.dart","bcity_web|lib/views/pages/home_view.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

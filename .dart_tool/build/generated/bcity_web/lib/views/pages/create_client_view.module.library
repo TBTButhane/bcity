@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["jaspr|lib/dom.dart","jaspr|lib/jaspr.dart","bcity_web|lib/controllers/create_client_controller.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

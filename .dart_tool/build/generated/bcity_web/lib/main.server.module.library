@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["jaspr|lib/server.dart","shelf|lib/shelf.dart","shelf|lib/shelf_io.dart","shelf_router|lib/shelf_router.dart","bcity_web|lib/components/client_code_gen.dart","bcity_web|lib/db/database.dart","bcity_web|lib/app.dart","bcity_web|lib/main.server.options.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","io"],"hasMain":true}
